@@ -10,7 +10,7 @@
 |02장|✅ [자바스크립트란?](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/02장_자바스크립트란.md)|
 |03장|자바스크립트 개발 환경과 실행 방법|
 |04장|✅ [변수](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/04장_변수.md)|
-|05장|표현식과 문|
+|05장|✅ [표현식과 문](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/05장_표현식과_문.md)|
 |06장|데이터 타입|
 |07장|연산자|
 |08장|제어문|
