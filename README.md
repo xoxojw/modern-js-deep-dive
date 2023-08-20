@@ -12,9 +12,9 @@
 |04장|✅ [변수](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/04장_변수.md)|
 |05장|✅ [표현식과 문](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/05장_표현식과_문.md)|
 |06장|✅ [데이터 타입](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/06장_데이터_타입.md)|
-|07장|✅ 연산자|
+|07장|✅ [연산자](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/07장_연산자.md)|
 |08장|✅ 제어문|
-|09장|타입 변환과 단축 평가|
+|09장|✅ 타입 변환과 단축 평가|
 |10장|객체 리터럴|
 |11장|원시 값과 객체의 비교|
 |12장|함수|
