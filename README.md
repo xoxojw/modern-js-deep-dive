@@ -17,7 +17,7 @@
 |08장|✅ 제어문|
 |09장|✅ 타입 변환과 단축 평가|
 |10장|✅ [객체 리터럴](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/10장_객체_리터럴.md)|
-|11장|원시 값과 객체의 비교|
+|11장|✅ [원시 값과 객체의 비교](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/11장_원시_값과_객체의_비교.md)|
 |12장|함수|
 |13장|스코프|
 |14장|전역 변수의 문제점|
