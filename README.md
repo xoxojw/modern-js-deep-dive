@@ -1,6 +1,7 @@
 # 📝 모던 자바스크립트 딥다이브 내용 정리
 - 📚 목표 - [모던 자바스크립트 Deep Dive](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545&start=slayer) 연말까지 완독하기
 - 📅 시작 - 2023. 8. 8
+- 📒 [예제코드](https://github.com/wikibook/mjs)
 
 
 ## 📌 목차
