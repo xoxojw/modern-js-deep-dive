@@ -1,6 +1,5 @@
-# 📝 모던 자바스크립트 딥다이브 내용 정리
-- 📚 목표 - [모던 자바스크립트 Deep Dive](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545&start=slayer) 연말까지 완독하기
-- 📅 시작 - 2023. 8. 8
+# 📝 모던 자바스크립트 딥다이브
+- 📚 [모던 자바스크립트 Deep Dive](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251552545&start=slayer) 공부한 내용 정리하기
 - 📒 [예제코드](https://github.com/wikibook/mjs)
 
 
@@ -48,8 +47,8 @@
 |39장|DOM|
 |40장|이벤트|
 |41장|타이머|
-|42장|비동기 프로그래밍|
-|43장|Ajax|
+|42장|✅ [비동기 프로그래밍](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/42장_비동기_프로그래밍.md)|
+|43장|✅ [Ajax](https://github.com/xoxojw/modern-js-deep-dive/blob/main/chapters/43%EC%9E%A5_Ajax.md)|
 |44장|Rest API|
 |45장|프로미스|
 |46장|제너레이터와 async/await|
