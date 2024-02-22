@@ -50,7 +50,7 @@
 |42장|✅ [비동기 프로그래밍](https://github.com/xoxojw/modern-js-deep-dive/tree/main/chapters/42장_비동기_프로그래밍.md)|
 |43장|✅ [Ajax](https://github.com/xoxojw/modern-js-deep-dive/blob/main/chapters/43장_Ajax.md.md)|
 |44장|✅ [REST API](https://github.com/xoxojw/modern-js-deep-dive/blob/main/chapters/44장_REST_API.md)|
-|45장|프로미스|
+|45장|✅ [프로미스](https://github.com/xoxojw/modern-js-deep-dive/blob/main/chapters/45장_프로미스.md)|
 |46장|제너레이터와 async/await|
 |47장|에러 처리|
 |48장|모듈|
