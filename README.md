@@ -52,6 +52,6 @@
 |44장|✅ [REST API](https://github.com/xoxojw/modern-js-deep-dive/blob/main/chapters/44장_REST_API.md)|
 |45장|✅ [프로미스](https://github.com/xoxojw/modern-js-deep-dive/blob/main/chapters/45장_프로미스.md)|
 |46장|✅ [제너레이터와 async/await](https://github.com/xoxojw/modern-js-deep-dive/blob/main/chapters/46장_제너레이터와_async_await.md)|
-|47장|에러 처리|
+|47장|✅ [에러 처리](https://github.com/xoxojw/modern-js-deep-dive/blob/main/chapters/47장_에러_처리.md)|
 |48장|모듈|
 |49장|Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축|
